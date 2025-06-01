@@ -54,7 +54,7 @@ zkipster-qa-task/
 
 ## How to run the project
 
-1. Install dependencies
+1. Install all dependencies
 
 ``` bash
 pip install -r requirements.txt
