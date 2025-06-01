@@ -1,5 +1,6 @@
+# This file contains the test case for creating a new user in the DemoQA web tables application.
 *** Settings ***
-Documentation    Teste de criação de novo utilizador.
+Documentation    Test Case for creating a new user in the DemoQA web tables application.
 Library          Browser
 Resource         ../Resources/keywords.resource
 

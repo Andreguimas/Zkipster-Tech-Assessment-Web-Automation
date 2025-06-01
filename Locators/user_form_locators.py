@@ -1,3 +1,5 @@
+# This file contains the locators for the user form page.
+
 ADD_BUTTON = "//*[@id='addNewRecordButton']"
 FIRST_NAME_INPUT = "//*[@id='firstName']"
 LAST_NAME_INPUT = "//*[@id='lastName']"

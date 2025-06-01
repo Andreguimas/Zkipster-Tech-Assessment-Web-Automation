@@ -1,3 +1,4 @@
+# This file contais de variables used in the tests.
 *** variables ***
 ${BASE_URL}      https://demoqa.com/webtables
 ${FIRST_NAME}    João
