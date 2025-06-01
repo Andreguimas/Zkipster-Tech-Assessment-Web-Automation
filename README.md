@@ -66,5 +66,5 @@ rfbrowser init
 To run each test run the following command on the directory that contains the test cases:
 
 ``` bash
-robot -d Output Tests"
+robot -d Output Tests
 ```
